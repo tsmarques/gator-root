@@ -1,0 +1,6 @@
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:tsmarques/gate-hardware.git
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:tsmarques/gator.git
