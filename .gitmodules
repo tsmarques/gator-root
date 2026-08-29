@@ -1,6 +1,6 @@
 [submodule "hardware"]
 	path = hardware
-	url = git@github.com:tsmarques/gate-hardware.git
+  url = ssh://git@codeberg.org/tsm/gator-hardware.git
 [submodule "firmware"]
 	path = firmware
-	url = git@github.com:tsmarques/gator.git
+	url = ssh://git@codeberg.org/tsm/gator-firmware.git
